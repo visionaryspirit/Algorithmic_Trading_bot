@@ -48,12 +48,11 @@ The SVC model, providing our baseline performance, results in the following metr
 ![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_12_months.png)
 
 * Training Period: 12 months
-
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_12_months.png)
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
 |:---------- |:--------:|:--------------:|:-----------:|:---------------:|:------------:|
 | **Result** |  0.56   |    0.56          | 1.00        |    0.72        | 0.00        |
-
 
 
 
