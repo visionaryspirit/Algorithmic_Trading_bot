@@ -2,7 +2,8 @@
 Algorithmic trading, python programming and machine learning application
 
 
-![logo](14-challenge-image.png)
+![logo](Starter_Code/Resources/14-challenge-image.png)
+
 
 ## Establish a Baseline Performance
 The SVC model, providing our baseline performance, results in the following metrics:
