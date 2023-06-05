@@ -9,8 +9,7 @@ Algorithmic trading, python programming and machine learning application
 The SVC model, providing our baseline performance, results in the following metrics:
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_baseline.png)
-
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_baseline.png)
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
 |:---------- |:--------:|:--------------:|:-----------:|:---------------:|:------------:|
@@ -24,8 +23,8 @@ The SVC model, providing our baseline performance, results in the following metr
 
 # Tune the training algorithm by adjusting the size of the training dataset. To do so, slice your data into different periods. Rerun the notebook with the updated parameters, and record the results in your README.md file. Answer the following question: What impact resulted from increasing or decreasing the training window?
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_6_months.png)
 
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_6_months.png)
 * Training Period: 6 months
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
@@ -34,8 +33,7 @@ The SVC model, providing our baseline performance, results in the following metr
 
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_9_months.png)
-
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_9_months.png)
 * Training Period: 9 months
 
 
@@ -45,10 +43,8 @@ The SVC model, providing our baseline performance, results in the following metr
 
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_12_months.png)
-
-* Training Period: 12 months
 ![logo](Starter_Code/Resources/actual_vs_strategy_returns_12_months.png)
+* Training Period: 12 months
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
 |:---------- |:--------:|:--------------:|:-----------:|:---------------:|:------------:|
@@ -56,8 +52,7 @@ The SVC model, providing our baseline performance, results in the following metr
 
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_15_months.png)
-
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_15_months.png)
 * Training Period: 15 months
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
@@ -69,7 +64,7 @@ The SVC model, providing our baseline performance, results in the following metr
 ## Tune the trading algorithm by adjusting the SMA input features. Adjust one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results in your README.md file. Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_sma_5_120.png)
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_sma_5_120.png)
 
 SMA Window: 5/120
 
@@ -78,8 +73,7 @@ SMA Window: 5/120
 | **Result** |  0.52    | 0.57          | 0.64         |    0.45          | 0.38         |
 
 
-
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_sma_10_150.png)
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_sma_10_150.png)
 
 *SMA Window: 10/150
 
@@ -92,7 +86,7 @@ SMA Window: 5/120
 
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_sma_20_200.png)
+![logo](Starter_Code/Resources/actual_vs_strategy_returns_sma_20_200.png)
 
 
 *SMA Window: 20/200
