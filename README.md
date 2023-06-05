@@ -1,6 +1,7 @@
 # Algorithmic_Trading_bot
 Algorithmic trading, python programming and machine learning application
 
+
 ![logo](14-challenge-image.png)
 
 Starter_Code/Resources/14-challenge-image.png
