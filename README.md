@@ -99,8 +99,6 @@ SMA Window: 5/120
        
 
 
-![Actual Returns vs. Strategy Returns - Baseline](Resources/actual_vs_strategy_returns_6_months.png)
-
 
 
 |            | Accuracy | Long precision | Long recall | Short precision | Short recall |
